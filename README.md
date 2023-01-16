@@ -1,3 +1,3 @@
-Duck
-Mahmut
-Cat
+Ducks
+Mahmuts
+Cats
