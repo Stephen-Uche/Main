@@ -2,4 +2,12 @@ git cherry-pick b9012eb
 git checkout main
 git rebase -i
 
+steg 18 commandon -
+git tag -a v1.0 -m "Version 1.0"
+git show v1.0 
+
+steg 19 commandon - 
+git rebase -i
+
+
 
