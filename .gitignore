@@ -1,2 +1,4 @@
 .idea/
 *.jar
+target/**
+!target/*.html
