@@ -2,4 +2,13 @@ git cherry-pick b9012eb
 git checkout main
 git rebase -i
 
-
+git init
+git clone
+git branch
+git checkout
+git add
+git commit
+git push
+git pull
+git merge
+git status
